@@ -7,7 +7,7 @@ This repository contains the prototype for the second version of the Andazeh Neg
 - **Enhanced Design**: Focused on visual appeal and user experience, ensuring intuitive navigation.
 - **User-Centric Approach**: Incorporates feedback and usability principles to cater to the target audience.
 - **Scalability**: Designed to serve as a solid foundation for future implementation and expansion.
-- **Documentation**: Comprehensive project documentation, including objectives, requirements analysis, and usability testing.
+- **Documentation**: Comprehensive project documentation, including objectives, requirements analysis, domain analysis, and etc.
 
 ## Development Process
 The prototype was developed using a PRINCE2-based methodology:
@@ -30,9 +30,3 @@ The prototype was developed using a PRINCE2-based methodology:
 ## Usage
 - This prototype serves as a blueprint for the second version of the Andazeh Negasht Corporate Website.
 - It is not a fully functional implementation but demonstrates the intended design, structure, and features.
-
-## Installation
-To view the prototype locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/andazeh-negasht-corporate-website-prototype.git
